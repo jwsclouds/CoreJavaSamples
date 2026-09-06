@@ -1,4 +1,4 @@
-package com.jwsclouds.samples.java8;
+package threads;
 
 class RunnableLambdaExample {
     public static void main(String[] args) {
